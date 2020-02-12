@@ -1,8 +1,0 @@
-NPM is a way for developers to share code that they have written
-
-// How NPM works
-search for packages/modules on their website which are kept in the NPM registry
-
-YARN & NPM are very similar, if you know one, you know the other.
-
-Node allows us to run javascript outside the browser
